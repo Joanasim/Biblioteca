@@ -23,3 +23,14 @@ h1{
 
 }
 
+
+.cabecalho{
+    background-color: var(#ffffff);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+}
+.cabecalho__imagem{
+    width: 24px;
+    height: 24px;
+}
